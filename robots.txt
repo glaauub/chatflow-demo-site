@@ -1,0 +1,23 @@
+# robots.txt - export-site
+User-agent: *
+Allow: /
+Disallow: /admin.html
+
+# 以下 AI 引擎/爬虫允许访问，便于 AI 搜索引用品牌内容（AI GEO）
+User-agent: GPTBot
+Allow: /
+User-agent: ChatGPT-User
+Allow: /
+User-agent: Google-Extended
+Allow: /
+User-agent: ClaudeBot
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+User-agent: Applebot-Extended
+Allow: /
+User-agent: CCBot
+Allow: /
+
+Sitemap: sitemap.xml
+# LLM 友好说明文件：llms.txt（见 https://llmstxt.org ）

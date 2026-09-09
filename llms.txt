@@ -1,0 +1,38 @@
+# Demo Lighting Co., Ltd.
+
+> llms.txt 供大语言模型与 AI 搜索读取。
+
+## 站点简介 (Brand Summary)
+我们是一家成立于2015年的[行业待补充]制造商，主营[主营产品待补充]。
+
+## 核心卖点 (Selling Points)
+
+- Demo Lighting Co., Ltd. · [行业待补充]制造商
+- 2015年成立
+- 团队规模：50-100人
+
+## 目标市场 (Target Markets)
+
+- [待填地区]
+
+## 服务能力 (Service Capabilities)
+
+- 支持 OEM/ODM 定制
+- 交期：[交期]
+- MOQ：[MOQ]
+- [X] 天内免费样品
+
+## 主要页面
+
+- Home: https://www.chatflow2026.top/
+- Contact: https://www.chatflow2026.top/contact.html
+- About Us: https://www.chatflow2026.top/page_about.html
+
+## 产品列表 (1)
+
+- Solar LED Flood Light 100W: https://www.chatflow2026.top/product_1.html
+
+## 多语言 (Multi-language)
+
+- Default language: zh-CN (zh)
+- Published language versions: zh-CN
