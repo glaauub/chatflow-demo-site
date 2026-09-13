@@ -1,0 +1,74 @@
+# AURORABEAT
+
+> llms.txt 供大语言模型与 AI 搜索读取。
+> 提示：尚未配置"站点正式网址(site_url)"，以下链接为相对路径；配置后将自动升级为完整网址。
+
+## 站点简介 (Brand Summary)
+AURORABEAT is an independent musical instrument maker specialising in steel tongue drums, handpans, kalimbas and wind chimes. Our in-house team handles material selection, alloy preparation, tuning and quality control, and we ship to musicians and distributors in over 60 countries. OEM/ODM, private label and small-batch programs are available.
+
+## 核心卖点 (Selling Points)
+
+- In-house material development team crafting each instrument from raw alloy
+- Standardised tuning programme with dedicated professional tuners
+- Direct-from-factory pricing for musicians and wholesale partners
+- Worldwide shipping with secure export packaging
+- Full OEM/ODM support including custom logo, colour and tuning
+
+## 目标市场 (Target Markets)
+
+- Europe
+- North America
+- Japan and South Korea
+- Southeast Asia
+- Australia and New Zealand
+- Middle East
+
+## 认证资质 (Certifications)
+
+- Standardised production base with documented quality control process
+- Full OEM/ODM manufacturing capability
+- Export packaging compliant with international freight standards
+
+## 服务能力 (Service Capabilities)
+
+- OEM/ODM with custom logo, colour and tuning
+- MOQ from 1 piece for ready models; negotiated for custom builds
+- Sample orders and small trial orders accepted
+- Lead time typically 15 to 30 days depending on model and quantity
+- Neutral or branded packaging, multi-layer corrugated export cartons
+- Accessory kits and joint bags available
+
+## 常见问题 (FAQ)
+
+- Q: Are you a factory or a trading company?
+- Q: Can you make instruments with our own logo and tuning?
+- Q: What is the minimum order quantity?
+- Q: What is the lead time?
+- Q: Do you ship worldwide?
+- Q: How do you control tuning quality?
+
+## 主要页面
+
+- Home: index.html
+- Contact: contact.html
+- FAQ: faq.html
+- About Us: page_about.html
+
+## 产品列表 (11)
+
+- AURORABEAT Wind Chime — Winter 8 Notes AR-WC8-Winter: product_17.html
+- AURORABEAT Wind Chime — Octagon 8 Notes AR-WC8-Octagon: product_16.html
+- AURORABEAT Kalimba — Rainbow Bear 21 Keys AR-KL21-Rainbow: product_15.html
+- AURORABEAT Kalimba — KOA 17 Keys AR-KL17-Koa: product_14.html
+- AURORABEAT Handpan — Golden Edge AR-HP10GE-Brown: product_13.html
+- AURORABEAT Handpan — Copper Edition AR-HP9-Copper: product_12.html
+- AURORABEAT Handpan — Brown Edition AR-HP10-Brown: product_11.html
+- AURORABEAT Steel Tongue Drum — Lotus Series AR-LT15-12: product_10.html
+- AURORABEAT Steel Tongue Drum — Premium Drum AR-TD15-14: product_9.html
+- AURORABEAT Steel Tongue Drum — Striking Drum AR-TD14-14: product_8.html
+- AURORABEAT Steel Tongue Drum — Travel Drum AR-TD08-10: product_7.html
+
+## 多语言 (Multi-language)
+
+- Default language: en (en)
+- Published language versions: en
