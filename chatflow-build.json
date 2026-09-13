@@ -1,12 +1,12 @@
 {
   "app": "ChatFLOW",
   "version": "2.1.1",
-  "build_id": "0e6380aa2754fdbc56ae53e7",
-  "generated_at": "2026-09-13T11:17:13.060747+00:00",
+  "build_id": "77653e16ba5f1ea51ca03db4",
+  "generated_at": "2026-09-13T11:46:45.853636+00:00",
   "pages": {
     "contact.html": "f08616f6657863a8b713e0c20b75032126ef789e6a03a27e77920fbac29c844b",
     "faq.html": "2383d2cbb360bd1aac33569ad084d9f373967212db8db496fcf697ee92f76332",
-    "index.html": "8e1c2924d51538ca906373794b96259cf47bb22fa1a0dfb0ce4f64f87dfa8bc0",
+    "index.html": "c7a392c508efde9bf1dce30ecafa753ed5fe2a62f580674e2c9ce5a4fd8f3c62",
     "llms.txt": "124a52ba3c9eb3230426be0036b1ac5775166da26c3eeec55f2ddee184dea2ed",
     "page_about.html": "6d621ba2306d9a4edea40bc42d65c2d272aa94989aa7e8e10c2180d7c0c9a67f",
     "product_10.html": "e818082692a34c3be3189b1c3b12b08fb52995ece8c605fc9ea287aa4a5f83df",

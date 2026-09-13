@@ -549,11 +549,6 @@ body .container > h1 { font-size: clamp(28px, 4vw, 44px); font-weight: 800; line
 .whyus-ic { font-size: 28px; line-height: 1.1; }
 .whyus-title { display: block; margin: 10px 0 6px; font-size: 16px; font-weight: 700; color: #1a2a3a; }
 .whyus-text { margin: 0; font-size: 13.5px; color: #4a5566; line-height: 1.55; }
-.cta-banner { background: linear-gradient(135deg, #2f6fed 0%, #1a4fc0 100%); color: #fff; border-radius: 18px; padding: 36px 28px; margin: 24px 0 36px; box-shadow: 0 14px 32px rgba(47,111,237,.25); }
-.cta-title { font-size: clamp(20px, 2.6vw, 28px); font-weight: 800; margin: 0 0 8px; line-height: 1.2; color: #fff; }
-.cta-sub { font-size: 14px; opacity: .92; margin: 0 0 18px; line-height: 1.6; max-width: 760px; }
-.cta-btn { display: inline-block; background: #fff; color: #1a4fc0; font-weight: 700; padding: 12px 22px; border-radius: 999px; text-decoration: none; transition: transform .15s; }
-.cta-btn:hover { transform: translateY(-2px); }
 .section h3 { font-size: 18px; font-weight: 700; color: #1a2a3a; margin: 24px 0 8px; }
 .section p { font-size: 14.5px; line-height: 1.7; color: #4a5566; }
 .section ul { padding-left: 20px; }
@@ -563,5 +558,4 @@ body .container > h1 { font-size: clamp(28px, 4vw, 44px); font-weight: 800; line
   .about-products-grid { grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 12px; }
   .about-product-card img { height: 150px; }
   .stat-grid, .whyus-grid { grid-template-columns: repeat(2, 1fr); gap: 10px; }
-  .cta-banner { padding: 24px 18px; }
 }
