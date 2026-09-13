@@ -1,11 +1,11 @@
 # HLURU
 
-> llms.txt 供大语言模型与 AI 搜索读取。
+> llms.txt for large language models and AI search engines.
 
-## 站点简介 (Brand Summary)
+## Brand Summary
 HLURU is a manufacturer of healing instruments based in Shenzhen, China. The company makes steel tongue drums, handpans, kalimbas and wind chimes, handling material selection, tuning and quality control in house. HLURU supplies musicians, retailers and distributors worldwide, and offers OEM/ODM, private label and wholesale programmes.
 
-## 核心卖点 (Selling Points)
+## Selling Points
 
 - In-house design, tuning and production of every instrument we ship
 - Multiple patented designs, including the handpan-shaped steel tongue drum and the Octagon wind chime
@@ -14,7 +14,7 @@ HLURU is a manufacturer of healing instruments based in Shenzhen, China. The com
 - Worldwide shipping with export-grade packaging
 - OEM/ODM support including custom logo, colour, scale and tuning
 
-## 目标市场 (Target Markets)
+## Target Markets
 
 - Europe
 - North America
@@ -23,14 +23,14 @@ HLURU is a manufacturer of healing instruments based in Shenzhen, China. The com
 - Australia and New Zealand
 - Middle East
 
-## 认证资质 (Certifications)
+## Certifications
 
 - Patented designs registered in the EU and the United States
 - Standardised in-house tuning and quality control process
 - Full OEM/ODM manufacturing capability
 - Export packaging compliant with international freight standards
 
-## 服务能力 (Service Capabilities)
+## Service Capabilities
 
 - OEM/ODM with custom logo, colour, scale and tuning
 - Sample orders and small trial orders accepted
@@ -39,7 +39,7 @@ HLURU is a manufacturer of healing instruments based in Shenzhen, China. The com
 - Accessory kits and carry bags available
 - Wholesale programmes for retailers and distributors
 
-## 常见问题 (FAQ)
+## FAQ
 
 - Q: Are you a factory or a trading company?
 - Q: Can you make instruments with our own logo and tuning?
@@ -48,14 +48,14 @@ HLURU is a manufacturer of healing instruments based in Shenzhen, China. The com
 - Q: Do you ship worldwide?
 - Q: What makes HLURU instruments different?
 
-## 主要页面
+## Key Pages
 
 - Home: https://www.chatflow2026.top/
 - Contact: https://www.chatflow2026.top/contact.html
 - FAQ: https://www.chatflow2026.top/faq.html
 - About Us: https://www.chatflow2026.top/page_about.html
 
-## 产品列表 (11)
+## Products (11)
 
 - Hluru Wind Chime — Winter 8 Notes Win 8-4: https://www.chatflow2026.top/product_17.html
 - Hluru Wind Chime — 8 Notes Octagon Meditation Series Single Swing: https://www.chatflow2026.top/product_16.html
@@ -69,7 +69,7 @@ HLURU is a manufacturer of healing instruments based in Shenzhen, China. The com
 - Hluru Steel Tongue Drum — Striking Drum TA14-14: https://www.chatflow2026.top/product_8.html
 - Hluru Steel Tongue Drum — Travel Drum TA8-10: https://www.chatflow2026.top/product_7.html
 
-## 多语言 (Multi-language)
+## Languages
 
 - Default language: en (en)
 - Published language versions: en

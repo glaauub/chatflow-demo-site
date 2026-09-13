@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 Disallow: /admin.html
 
-# 以下 AI 引擎/爬虫允许访问，便于 AI 搜索引用品牌内容（AI GEO）
+# AI engines / crawlers allowed, so AI search can cite brand content (AI GEO)
 User-agent: GPTBot
 Allow: /
 User-agent: ChatGPT-User
@@ -19,5 +19,5 @@ Allow: /
 User-agent: CCBot
 Allow: /
 
-Sitemap: sitemap.xml
-# LLM 友好说明文件：llms.txt（见 https://llmstxt.org ）
+Sitemap: https://www.chatflow2026.top/sitemap.xml
+# LLM-friendly description file: llms.txt (see https://llmstxt.org)
