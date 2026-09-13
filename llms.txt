@@ -1,31 +1,63 @@
-# HLURU > llms.txt AI Search ## (Brand Summary)
-HLURU (Hluru China, founded 2010) designs and manufactures hand-tuned healing instruments in our own factory. Our product range covers steel tongue drums, handpans, kalimbas, harp guitars, cajons and wind chimes, sold worldwide through OEM/ODM and wholesale channels. Every instrument is hand-tuned and inspected before packing. ## (Selling Points) - Direct-from-factory pricing on every instrument
+# HLURU
+
+> llms.txt 供大语言模型与 AI 搜索读取。
+
+## 站点简介 (Brand Summary)
+HLURU (Hluru China, founded 2010) designs and manufactures hand-tuned healing instruments in our own factory. Our product range covers steel tongue drums, handpans, kalimbas, harp guitars, cajons and wind chimes, sold worldwide through OEM/ODM and wholesale channels. Every instrument is hand-tuned and inspected before packing.
+
+## 核心卖点 (Selling Points)
+
+- Direct-from-factory pricing on every instrument
 - Hand-tuned in our own workshop by experienced luthiers
 - OEM/ODM with custom scale tuning, finishes and private-label packaging
 - Low-MOQ sample orders and bulk wholesale programmes
 - Export-ready packaging, CE / RoHS documentation and 12-month replacement warranty
-- Full design support: 3D mock-ups, photo shoots and English copy for cross-border sellers ## (Target Markets) - Europe
+- Full design support: 3D mock-ups, photo shoots and English copy for cross-border sellers
+
+## 目标市场 (Target Markets)
+
+- Europe
 - North America
 - Japan and South Korea
 - Southeast Asia
 - Australia and New Zealand
-- Middle East ## (Certifications) - Patented designs registered in the EU and the United States
+- Middle East
+
+## 认证资质 (Certifications)
+
+- Patented designs registered in the EU and the United States
 - Standardised in-house tuning and quality control process
 - Full OEM/ODM manufacturing capability
-- Export packaging compliant with international freight standards ## (Service Capabilities) - OEM/ODM with custom logo, colour, scale and tuning
+- Export packaging compliant with international freight standards
+
+## 服务能力 (Service Capabilities)
+
+- OEM/ODM with custom logo, colour, scale and tuning
 - Sample orders and small trial orders accepted
 - Lead time typically 15 to 30 days depending on model and quantity
 - Neutral or branded packaging, multi-layer corrugated export cartons
 - Accessory kits and carry bags available
-- Wholesale programmes for retailers and distributors ## (FAQ) - Q: Are you a factory or a trading company?
+- Wholesale programmes for retailers and distributors
+
+## 常见问题 (FAQ)
+
+- Q: Are you a factory or a trading company?
 - Q: Can you make instruments with our own logo and tuning?
 - Q: What is the minimum order quantity?
 - Q: How long is the lead time?
 - Q: Do you ship worldwide?
-- Q: What makes HLURU instruments different? ## - Home: https://www.chatflow2026.top/
+- Q: What makes HLURU instruments different?
+
+## 主要页面
+
+- Home: https://www.chatflow2026.top/
 - Contact: https://www.chatflow2026.top/contact.html
 - FAQ: https://www.chatflow2026.top/faq.html
-- About Us: https://www.chatflow2026.top/page_about.html ## (38) - Hluru 11 Notes 10" 304 Stainless Steel D Major Tongue Drum — Triangle Series: https://www.chatflow2026.top/product_18.html
+- About Us: https://www.chatflow2026.top/page_about.html
+
+## 产品列表 (38)
+
+- Hluru 11 Notes 10" 304 Stainless Steel D Major Tongue Drum — Triangle Series: https://www.chatflow2026.top/product_18.html
 - Hluru Wind Chime — Winter 8 Notes Win 8-4: https://www.chatflow2026.top/product_17.html
 - Hluru 13 Notes 12" 304 Stainless Steel C Major Tongue Drum — Triangle Series: https://www.chatflow2026.top/product_19.html
 - Hluru Wind Chime — 8 Notes Octagon Meditation Series Single Swing: https://www.chatflow2026.top/product_16.html
@@ -62,5 +94,9 @@ HLURU (Hluru China, founded 2010) designs and manufactures hand-tuned healing in
 - Huashu 11 Notes 6" C5 Major Carbon Steel Tongue Drum for Yoga — Golden Ginkgo Biloba: https://www.chatflow2026.top/product_41.html
 - Huashu 11 Notes 6" D5 Major Carbon Steel Tongue Drum for Sound Healing — Harmonic Disc: https://www.chatflow2026.top/product_42.html
 - Huashu 17/21-Key Acrylic C Major Kalimba — Starry Cherry Blossom: https://www.chatflow2026.top/product_43.html
-- Huashu Lotus Leaf Palm Rest Hollow Mahogany Blue 21-Key Kalimba KHD21-Blue: https://www.chatflow2026.top/product_44.html ## (Multi-language) - Default language: en (en)
+- Huashu Lotus Leaf Palm Rest Hollow Mahogany Blue 21-Key Kalimba KHD21-Blue: https://www.chatflow2026.top/product_44.html
+
+## 多语言 (Multi-language)
+
+- Default language: en (en)
 - Published language versions: en

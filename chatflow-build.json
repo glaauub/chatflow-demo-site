@@ -1,12 +1,12 @@
 {
   "app": "ChatFLOW",
   "version": "2.1.1",
-  "build_id": "f96e87607d8f6be3a927ac7e",
-  "generated_at": "2026-09-13T13:08:37.909856+00:00",
+  "build_id": "b2cd7567736b1f138005b3e2",
+  "generated_at": "2026-09-13T14:16:07.384295+00:00",
   "pages": {
     "contact.html": "219f6c167a6443cc015ee29b552228564a1d4e3671fe2f730e876c296d4616f6",
     "faq.html": "bc50bafc0b4b17e4cdd7213ce8b516f108c90aae228f91bca2cf52057aa4644f",
-    "index.html": "3ea906c4791c8bc259011d1514c9ad8959edd0ed6d50cdfbcbe49a0a0e35e499",
+    "index.html": "26a2a18898fad3c7e8534a4c50a7da994845234a7eb7d4ccb9189a043fa4e528",
     "llms.txt": "eb90dfda95db81cd615e64a4b1032e84b0cee0eed86101f319675852a6053b97",
     "page_about.html": "0bcaa9e5ba54218ab773338181ca8af54d24abf707f21449e63479172356f366",
     "product_10.html": "19bd9b512620c65c008a1ebfc6a2a9d0377e14834561175446631d0f0c352268",
@@ -81,7 +81,6 @@
     "static/pay_icons/westernunion.svg": "ff7b2e46acda0326973933fa5fc08a56cb8ccf5741c4b3881d2c3d37e23509ab",
     "static/pay_icons/wise.svg": "882842c0a729e633e84fff24bf9edecec8216b8bf0b47f866e32f82d41fb6c18",
     "static/pay_icons/zelle.svg": "e7baedba90617e950874da53ca4a1eb1d03eebd140c0a029c311eb49822974aa",
-    "static/uploads/2399fbae3c0f420791092a0c5fe20679.jpg": "b84e086db953fea1dc871d7e2a60b32c6ec126cb4c030a641ebad3b1f4d0bce1",
     "static/uploads/hluru-hb10-brown.jpg": "33b8f21a128ed3bf55edfe6bd1606e2ac3f66dc800163e10d1a1b61088fe0655",
     "static/uploads/hluru-hb9-copper.jpg": "20a7689cdb1de40a1413e07ef665d4c3ab89f5be83a5022fcca5f12f4c181b6b",
     "static/uploads/hluru-hg10-brown.jpg": "786996c5ce39e99b29abcb81ca05b7c611790f1d73c4fd6305ee14674c0165d8",
