@@ -1,23 +1,5 @@
-# robots.txt - export-site
 User-agent: *
 Allow: /
-Disallow: /admin.html
-
-# AI engines / crawlers allowed, so AI search can cite brand content (AI GEO)
-User-agent: GPTBot
-Allow: /
-User-agent: ChatGPT-User
-Allow: /
-User-agent: Google-Extended
-Allow: /
-User-agent: ClaudeBot
-Allow: /
-User-agent: PerplexityBot
-Allow: /
-User-agent: Applebot-Extended
-Allow: /
-User-agent: CCBot
-Allow: /
-
-Sitemap: https://www.chatflow2026.top/sitemap.xml
-# LLM-friendly description file: llms.txt (see https://llmstxt.org)
+Disallow: /admin User-agent: OAI-SearchBot
+Allow: / User-agent: GPTBot
+Disallow: / Sitemap: https://www.chatflow2026.top/sitemap.xml
