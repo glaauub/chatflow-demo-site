@@ -528,27 +528,3 @@ img { max-width: 100%; }
 .cb-btn { border: none; cursor: pointer; padding: 9px 18px; border-radius: 8px; font-size: 13px; font-weight: 700; }
 .cb-accept { background: #2f6fed; color: #fff; }
 .cb-decline { background: rgba(255,255,255,.12); color: #e5e7eb; }
-/* HLURU logo image */
-
-/* HLURU logo image — replaces word-mark in nav */
-.hluru-logo{display:block;height:32px;width:auto;max-width:120px;object-fit:contain;}
-.logo.hluru{display:inline-flex;align-items:center;}
-.hero-tagline{font-size:14.5px;line-height:1.6;color:#4a5566;max-width:780px;margin:6px 0 26px;}
-@media (max-width:600px){
-  .hluru-logo{height:26px;}
-  .hero-tagline{font-size:13px;}
-}
-
-/* blog (kept) */
-.blog-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:14px;margin:14px 0 40px;}
-.blog-card{background:#fff;border:1px solid rgba(0,0,0,0.06);border-radius:12px;overflow:hidden;}
-.blog-card a{display:block;padding:18px 20px;color:inherit;text-decoration:none;}
-.blog-card h3{font-size:16px;font-weight:800;color:#1a2a3a;margin:0 0 8px;line-height:1.35;}
-.blog-card p{font-size:13.5px;color:#4a5566;line-height:1.55;margin:0 0 12px;}
-.read-more{font-size:12px;color:#2f6fed;font-weight:700;letter-spacing:.04em;text-transform:uppercase;}
-.blog-article{font-size:15px;line-height:1.7;color:#2d3540;max-width:780px;}
-.blog-article h3{font-size:18px;margin:22px 0 8px;color:#1a2a3a;}
-.blog-article p{margin:0 0 12px;}
-.blog-article ul, .blog-article ol{padding-left:20px;}
-.blog-article li{margin:4px 0;}
-.brand-hero-sub2{font-size:13.5px;line-height:1.65;color:#5b6573;margin:-12px 0 22px;max-width:740px;}
