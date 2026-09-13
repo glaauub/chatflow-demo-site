@@ -528,34 +528,13 @@ img { max-width: 100%; }
 .cb-btn { border: none; cursor: pointer; padding: 9px 18px; border-radius: 8px; font-size: 13px; font-weight: 700; }
 .cb-accept { background: #2f6fed; color: #fff; }
 .cb-decline { background: rgba(255,255,255,.12); color: #e5e7eb; }
-/* ChatFLOW demo enhancements */
-.banner-section { position: relative; }
-.banner-slider .slide { position: relative; }
-.banner-slider .slide::after { content: ''; position: absolute; inset: 0; background: linear-gradient(180deg, rgba(0,0,0,0.05) 0%, rgba(0,0,0,0.45) 100%); pointer-events: none; }
-body .container > h1 { font-size: clamp(28px, 4vw, 44px); font-weight: 800; line-height: 1.15; letter-spacing: -0.01em; color: #1a2a3a; margin: 30px 0 8px; }
-.about-products-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 18px; margin: 22px 0 36px; }
-.about-product-card { display: block; text-decoration: none; color: inherit; background: #fff; border-radius: 14px; overflow: hidden; border: 1px solid rgba(0,0,0,0.06); box-shadow: 0 6px 18px rgba(0,0,0,0.06); transition: transform .25s ease, box-shadow .25s ease; }
-.about-product-card:hover { transform: translateY(-3px); box-shadow: 0 12px 28px rgba(0,0,0,0.12); }
-.about-product-card img { width: 100%; height: 200px; object-fit: cover; display: block; background: #f4f5f7; }
-.about-product-meta { padding: 12px 14px 16px; }
-.about-product-cat { display: inline-block; font-size: 11px; letter-spacing: 0.06em; text-transform: uppercase; font-weight: 700; padding: 3px 8px; border-radius: 999px; background: rgba(47,111,237,.10); color: #2f6fed; }
-.about-product-name { display: block; margin-top: 8px; font-size: 14px; font-weight: 600; color: #1a2a3a; line-height: 1.35; min-height: 2.7em; }
-.stat-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)); gap: 16px; margin: 18px 0 30px; }
-.stat-card { background: linear-gradient(180deg, #ffffff 0%, #f8fafc 100%); border-radius: 14px; padding: 22px 18px; text-align: center; border: 1px solid rgba(0,0,0,0.06); box-shadow: 0 4px 14px rgba(0,0,0,0.05); }
-.stat-value { font-size: clamp(28px, 3.5vw, 40px); font-weight: 800; letter-spacing: -0.02em; color: #1a2a3a; line-height: 1.05; }
-.stat-label { display: block; margin-top: 6px; font-size: 13px; color: #7c8798; line-height: 1.4; }
-.whyus-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 16px; margin: 18px 0 30px; }
-.whyus-card { background: #fff; border: 1px solid rgba(0,0,0,0.06); border-radius: 14px; padding: 20px 18px; box-shadow: 0 4px 14px rgba(0,0,0,0.05); }
-.whyus-ic { font-size: 28px; line-height: 1.1; }
-.whyus-title { display: block; margin: 10px 0 6px; font-size: 16px; font-weight: 700; color: #1a2a3a; }
-.whyus-text { margin: 0; font-size: 13.5px; color: #4a5566; line-height: 1.55; }
-.section h3 { font-size: 18px; font-weight: 700; color: #1a2a3a; margin: 24px 0 8px; }
-.section p { font-size: 14.5px; line-height: 1.7; color: #4a5566; }
-.section ul { padding-left: 20px; }
-.section ul li { font-size: 14.5px; line-height: 1.65; color: #4a5566; margin-bottom: 6px; }
-.section strong { color: #1a2a3a; }
-@media (max-width: 720px) {
-  .about-products-grid { grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 12px; }
-  .about-product-card img { height: 150px; }
-  .stat-grid, .whyus-grid { grid-template-columns: repeat(2, 1fr); gap: 10px; }
+/* HLURU logo image */
+
+/* HLURU logo image — replaces word-mark in nav */
+.hluru-logo{display:block;height:32px;width:auto;max-width:120px;object-fit:contain;}
+.logo.hluru{display:inline-flex;align-items:center;}
+.hero-tagline{font-size:14.5px;line-height:1.6;color:#4a5566;max-width:780px;margin:6px 0 26px;}
+@media (max-width:600px){
+  .hluru-logo{height:26px;}
+  .hero-tagline{font-size:13px;}
 }
