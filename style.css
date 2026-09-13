@@ -590,3 +590,27 @@ img { max-width: 100%; }
   .brand-hero-actions{flex-direction:column;align-items:stretch;}
   .brand-hero-cta{text-align:center;}
 }
+/* brand-hero refinements */
+
+/* brand-hero refinements: accent stripe, lifted bg, trust strip */
+.brand-accent{height:4px;background:linear-gradient(90deg,#1a4fc0 0%,#2f6fed 45%,#ffb703 100%);border-radius:0 0 4px 4px;margin-bottom:0;}
+.brand-hero{
+  background:linear-gradient(180deg,#fcfcfd 0%,#ffffff 70%);
+  border-top:0;
+}
+.brand-hero .container{padding-top:0;}
+
+.trust-strip{
+  display:flex;flex-wrap:wrap;align-items:center;justify-content:center;gap:8px 22px;
+  padding:18px 16px;margin:0 0 28px;
+  background:#fff;border:1px solid rgba(0,0,0,0.05);border-radius:12px;
+  box-shadow:0 4px 14px rgba(0,0,0,0.04);
+}
+.trust-item{display:inline-flex;align-items:center;gap:8px;font-size:13.5px;color:#1a2a3a;font-weight:600;}
+.trust-mark{display:inline-flex;align-items:center;justify-content:center;width:22px;height:22px;border-radius:50%;background:linear-gradient(135deg,#2f6fed 0%,#1a4fc0 100%);color:#fff;font-size:13px;font-weight:800;}
+.trust-sep{width:1px;height:18px;background:rgba(0,0,0,0.08);}
+@media (max-width:720px){
+  .trust-strip{gap:6px 14px;padding:14px 12px;}
+  .trust-sep{display:none;}
+  .trust-item{font-size:12.5px;}
+}
