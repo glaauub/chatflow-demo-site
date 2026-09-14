@@ -8,3 +8,4 @@ Allow: /
 User-agent: GPTBot
 Disallow: /
 
+Sitemap: https://www.chatflow2026.top/sitemap.xml

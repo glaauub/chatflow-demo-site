@@ -1,7 +1,6 @@
 # HLURU
 
 > llms.txt 供大语言模型与 AI 搜索读取。
-> 提示：尚未配置"站点正式网址(site_url)"，以下链接为相对路径；配置后将自动升级为完整网址。
 
 ## 站点简介 (Brand Summary)
 HLURU - Professional Manufacturer & Supplier
@@ -51,51 +50,51 @@ HLURU - Professional Manufacturer & Supplier
 
 ## 主要页面
 
-- Home: index.html
-- Contact: contact.html
-- Frequently Asked Questions: faq.html
-- About Us: page_about.html
+- Home: https://www.chatflow2026.top/
+- Contact: https://www.chatflow2026.top/contact.html
+- Frequently Asked Questions: https://www.chatflow2026.top/faq.html
+- About Us: https://www.chatflow2026.top/page_about.html
 
 ## 产品列表 (38)
 
-- Hluru 11 Notes 10" 304 Stainless Steel D Major Tongue Drum — Triangle Series: product_18.html
-- Hluru Wind Chime — Winter 8 Notes Win 8-4: product_17.html
-- Hluru 13 Notes 12" 304 Stainless Steel C Major Tongue Drum — Triangle Series: product_19.html
-- Hluru Wind Chime — 8 Notes Octagon Meditation Series Single Swing: product_16.html
-- Hluru 15 Notes 14" 304 Stainless Steel D Major Tongue Drum — Triangle Series: product_20.html
-- Huashu Kalimba 21 Keys — Rainbow Bear Palm Rest Mahogany KHB21: product_15.html
-- Hluru 15-String Ostrya Japonica Harp for Music Therapy: product_21.html
-- Hluru Kalimba KOA — Palm Rest Hollow 17 Keys KD17-Koa: product_14.html
-- Hluru 19-String Large Harp with Bag and Tuning Wrench — Paulownia Wood: product_22.html
-- Hluru Handpan DC04 — Golden Edge Brown Handpan HG10-Brown: product_13.html
-- Hluru 21-Key C Major Kalimba for Early Childhood Education — Double-Layer Wah-Wah: product_23.html
-- Hluru Handpan STL — Copper Handpan HB9-Copper: product_12.html
-- Hluru 49CN Cajón — Black & White Ebony White Tiger: product_24.html
-- Hluru Handpan DC04 — Brown Handpan HB10-Brown: product_11.html
-- Hluru 49CN Cajón — Spalted Maple White Tiger: product_25.html
-- Huashu Steel Tongue Drum — Lotus Tongue Drum TWR15-12: product_10.html
-- Hluru 49CN Cajón — Zebra Wood White Tiger: product_26.html
-- Hluru Steel Tongue Drum — Premium Drum TB15-14: product_9.html
-- Hluru 7-String Sapele Harp for Meditation: product_27.html
-- Hluru Steel Tongue Drum — Striking Drum TA14-14: product_8.html
-- Hluru 8-Note 4" Mini Steel Tongue Drum: product_28.html
-- Hluru Steel Tongue Drum — Travel Drum TA8-10: product_7.html
-- Hluru 8 Notes 5" 304 Stainless Steel Flower of Life Tongue Drum: product_29.html
-- HLURU Black Walnut Chromatic Kalimba 38 Keys C Major — Grade A Tree of Life: product_30.html
-- Hluru Cherry Wood 5-Key Mini Kalimba for Music Therapy — Perfection Season Series: product_31.html
-- Hluru Cherry Wood 9-Key Kalimba for Meditation — Perfection Season Series: product_32.html
-- Hluru Chinese Ash Cajón 42CN — Teenager Series, Vermilion Bird: product_33.html
-- Hluru Microalloyed Steel & Premium Wood Tongue Drum 12" 10 Notes — EQ Healing: product_34.html
-- Hluru Goat Skin 9-Key Kalimba for Spiritual Practices — Perfection Series: product_35.html
-- Hluru Microalloyed Steel & Premium Wood Tongue Drum 14" 15 Notes — EQ Healing: product_36.html
-- Hluru Oil Skin 9-Key Kalimba for Sound Healing — Perfection Series: product_37.html
-- Hluru Universal Pickup for Handpan, Tongue Drum, Kalimba & Cajon: product_38.html
-- Hluru Vermilion Bird Cajón — Children's Version: product_39.html
-- Hluru Ziricote Cajón — Multifunctional Portable, Black Tortoise: product_40.html
-- Huashu 11 Notes 6" C5 Major Carbon Steel Tongue Drum for Yoga — Golden Ginkgo Biloba: product_41.html
-- Huashu 11 Notes 6" D5 Major Carbon Steel Tongue Drum for Sound Healing — Harmonic Disc: product_42.html
-- Huashu 17/21-Key Acrylic C Major Kalimba — Starry Cherry Blossom: product_43.html
-- Huashu Lotus Leaf Palm Rest Hollow Mahogany Blue 21-Key Kalimba KHD21-Blue: product_44.html
+- Hluru 11 Notes 10" 304 Stainless Steel D Major Tongue Drum — Triangle Series: https://www.chatflow2026.top/product_18.html
+- Hluru Wind Chime — Winter 8 Notes Win 8-4: https://www.chatflow2026.top/product_17.html
+- Hluru 13 Notes 12" 304 Stainless Steel C Major Tongue Drum — Triangle Series: https://www.chatflow2026.top/product_19.html
+- Hluru Wind Chime — 8 Notes Octagon Meditation Series Single Swing: https://www.chatflow2026.top/product_16.html
+- Hluru 15 Notes 14" 304 Stainless Steel D Major Tongue Drum — Triangle Series: https://www.chatflow2026.top/product_20.html
+- Huashu Kalimba 21 Keys — Rainbow Bear Palm Rest Mahogany KHB21: https://www.chatflow2026.top/product_15.html
+- Hluru 15-String Ostrya Japonica Harp for Music Therapy: https://www.chatflow2026.top/product_21.html
+- Hluru Kalimba KOA — Palm Rest Hollow 17 Keys KD17-Koa: https://www.chatflow2026.top/product_14.html
+- Hluru 19-String Large Harp with Bag and Tuning Wrench — Paulownia Wood: https://www.chatflow2026.top/product_22.html
+- Hluru Handpan DC04 — Golden Edge Brown Handpan HG10-Brown: https://www.chatflow2026.top/product_13.html
+- Hluru 21-Key C Major Kalimba for Early Childhood Education — Double-Layer Wah-Wah: https://www.chatflow2026.top/product_23.html
+- Hluru Handpan STL — Copper Handpan HB9-Copper: https://www.chatflow2026.top/product_12.html
+- Hluru 49CN Cajón — Black & White Ebony White Tiger: https://www.chatflow2026.top/product_24.html
+- Hluru Handpan DC04 — Brown Handpan HB10-Brown: https://www.chatflow2026.top/product_11.html
+- Hluru 49CN Cajón — Spalted Maple White Tiger: https://www.chatflow2026.top/product_25.html
+- Huashu Steel Tongue Drum — Lotus Tongue Drum TWR15-12: https://www.chatflow2026.top/product_10.html
+- Hluru 49CN Cajón — Zebra Wood White Tiger: https://www.chatflow2026.top/product_26.html
+- Hluru Steel Tongue Drum — Premium Drum TB15-14: https://www.chatflow2026.top/product_9.html
+- Hluru 7-String Sapele Harp for Meditation: https://www.chatflow2026.top/product_27.html
+- Hluru Steel Tongue Drum — Striking Drum TA14-14: https://www.chatflow2026.top/product_8.html
+- Hluru 8-Note 4" Mini Steel Tongue Drum: https://www.chatflow2026.top/product_28.html
+- Hluru Steel Tongue Drum — Travel Drum TA8-10: https://www.chatflow2026.top/product_7.html
+- Hluru 8 Notes 5" 304 Stainless Steel Flower of Life Tongue Drum: https://www.chatflow2026.top/product_29.html
+- HLURU Black Walnut Chromatic Kalimba 38 Keys C Major — Grade A Tree of Life: https://www.chatflow2026.top/product_30.html
+- Hluru Cherry Wood 5-Key Mini Kalimba for Music Therapy — Perfection Season Series: https://www.chatflow2026.top/product_31.html
+- Hluru Cherry Wood 9-Key Kalimba for Meditation — Perfection Season Series: https://www.chatflow2026.top/product_32.html
+- Hluru Chinese Ash Cajón 42CN — Teenager Series, Vermilion Bird: https://www.chatflow2026.top/product_33.html
+- Hluru Microalloyed Steel & Premium Wood Tongue Drum 12" 10 Notes — EQ Healing: https://www.chatflow2026.top/product_34.html
+- Hluru Goat Skin 9-Key Kalimba for Spiritual Practices — Perfection Series: https://www.chatflow2026.top/product_35.html
+- Hluru Microalloyed Steel & Premium Wood Tongue Drum 14" 15 Notes — EQ Healing: https://www.chatflow2026.top/product_36.html
+- Hluru Oil Skin 9-Key Kalimba for Sound Healing — Perfection Series: https://www.chatflow2026.top/product_37.html
+- Hluru Universal Pickup for Handpan, Tongue Drum, Kalimba & Cajon: https://www.chatflow2026.top/product_38.html
+- Hluru Vermilion Bird Cajón — Children's Version: https://www.chatflow2026.top/product_39.html
+- Hluru Ziricote Cajón — Multifunctional Portable, Black Tortoise: https://www.chatflow2026.top/product_40.html
+- Huashu 11 Notes 6" C5 Major Carbon Steel Tongue Drum for Yoga — Golden Ginkgo Biloba: https://www.chatflow2026.top/product_41.html
+- Huashu 11 Notes 6" D5 Major Carbon Steel Tongue Drum for Sound Healing — Harmonic Disc: https://www.chatflow2026.top/product_42.html
+- Huashu 17/21-Key Acrylic C Major Kalimba — Starry Cherry Blossom: https://www.chatflow2026.top/product_43.html
+- Huashu Lotus Leaf Palm Rest Hollow Mahogany Blue 21-Key Kalimba KHD21-Blue: https://www.chatflow2026.top/product_44.html
 
 ## 多语言 (Multi-language)
 
